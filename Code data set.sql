@@ -36,6 +36,102 @@ CATEGORY = COALESCE(CATEGORY, 'Not Found'),
 BRAND = COALESCE(BRAND, 'Not Found'),
 STREET = COALESCE(STREET, 'Not Found'),
 CITY = COALESCE(CITY, 'Not Found'),
-STATE = COALESCE(STATE, 'Not Found')
+STATE = COALESCE(STATE, 'Not Found');
+
+
+-- Eliminar caracteres inválidos de todas las columnas
+UPDATE TRANSACTIONS
+SET
+CLIENT_ID = REGEXP_REPLACE(CLIENT_ID, '[^A-Za-z0-9 ]', ''),
+CLIENT_NAME = REGEXP_REPLACE(CLIENT_NAME, '[^A-Za-z0-9 ,\-]', ''),
+CLIENT_LASTNAME = REGEXP_REPLACE(CLIENT_LASTNAME, '[^A-Za-z0-9 ,\-]', ''),
+EMAIL = REGEXP_REPLACE(EMAIL, '[^A-Za-z0-9@\.]', ''),
+STORE_ID = REGEXP_REPLACE(STORE_ID, '[^A-Za-z0-9 ]', ''),
+STORE_NAME = REGEXP_REPLACE(STORE_NAME, '[^A-Za-z0-9 ,\-]', ''),
+LOCATION = REGEXP_REPLACE(LOCATION, '[^A-Za-z0-9 ]', ''),
+PRODUCT_ID = REGEXP_REPLACE(PRODUCT_ID, '[^A-Za-z0-9 ]', ''),
+PRODUCT_NAME = REGEXP_REPLACE(PRODUCT_NAME, '[^A-Za-z0-9 ,\-]', ''),
+CATEGORY = REGEXP_REPLACE(CATEGORY, '[^A-Za-z0-9 ,\-]', ''),
+BRAND = REGEXP_REPLACE(BRAND, '[^A-Za-z0-9 ,\-]', ''),
+ADDRESS_ID = REGEXP_REPLACE(ADDRESS_ID, '[^A-Za-z0-9 ]', ''),
+STREET = REGEXP_REPLACE(STREET, '[^A-Za-z0-9 ,\-]', ''),
+CITY = REGEXP_REPLACE(CITY, '[^A-Za-z0-9 ,\-]', ''),
+STATE = REGEXP_REPLACE(STATE, '[^A-Za-z0-9 ,\-]', ''),
+ZIP_CODE = REGEXP_REPLACE(ZIP_CODE, '[^A-Za-z0-9 ,\-]', ''),
+TRANSACTION_ID = REGEXP_REPLACE(TRANSACTION_ID, '[^A-Za-z0-9 ]', ''),
+QUANTITY_OF_ITEMS_SOLD = REGEXP_REPLACE(QUANTITY_OF_ITEMS_SOLD, '[^0-9]', ''),
+UNIT_PRICE = REGEXP_REPLACE(UNIT_PRICE, '[^0-9.]', ''),
+DISCOUNT = REGEXP_REPLACE(DISCOUNT, '[^0-9.]', '');
+
+
+-- Crear tabla de Clientes
+CREATE TABLE Client (
+    client_id VARCHAR(50) PRIMARY KEY,
+    client_name VARCHAR(100),
+    client_last_name VARCHAR(100),
+    email VARCHAR(255)
+);
+
+-- Crear tabla de Tiendas
+CREATE TABLE Store (
+    store_id VARCHAR(50) PRIMARY KEY,
+    store_name VARCHAR(100),
+    location VARCHAR(255)
+);
+
+-- Crear tabla de Productos
+CREATE TABLE Product (
+    product_id VARCHAR(50) PRIMARY KEY,
+    product_name VARCHAR(100),
+    category VARCHAR(100),
+    brand VARCHAR(100)
+);
+
+-- Crear tabla de Direcciones
+CREATE TABLE Address (
+    address_id VARCHAR(50) PRIMARY KEY,
+    street VARCHAR(255),
+    city VARCHAR(100),
+    state VARCHAR(100),
+    zip_code VARCHAR(20)
+);
+
+-- Crear tabla de hechos de ventas (Sales fact table)
+CREATE TABLE Sales_Fact (
+    transaction_id VARCHAR(50),
+    quantity_of_items_sold INT,
+    unit_price FLOAT,
+    discount FLOAT,
+    client_id VARCHAR(50),
+    store_id VARCHAR(50),
+    product_id VARCHAR(50),
+    address_id VARCHAR(50),
+    CONSTRAINT fk_client FOREIGN KEY (client_id) REFERENCES Client(client_id),
+    CONSTRAINT fk_store FOREIGN KEY (store_id) REFERENCES Store(store_id),
+    CONSTRAINT fk_product FOREIGN KEY (product_id) REFERENCES Product(product_id),
+    CONSTRAINT fk_address FOREIGN KEY (address_id) REFERENCES Address(address_id)
+);
+
+
+SELECT CATEGORY, AVG(DISCOUNT) AS AVERAGE_DISCOUNT
+FROM TRANSACTIONS
+GROUP BY CATEGORY;
+
+SELECT STORE_NAME, SUM(QUANTITY_OF_ITEMS_SOLD) AS TOTAL_ITEMS_SOLD
+FROM TRANSACTIONS
+GROUP BY STORE_NAME;
+
+SELECT CATEGORY, SUM(QUANTITY_OF_ITEMS_SOLD) AS TOTAL_ITEMS_SOLD
+FROM TRANSACTIONS
+GROUP BY CATEGORY;
+
+SELECT CLIENT_NAME, SUM(QUANTITY_OF_ITEMS_SOLD) AS TOTAL_ITEMS_SOLD
+FROM TRANSACTIONS
+GROUP BY CLIENT_NAME;
+
+
+
+
+
 
 
