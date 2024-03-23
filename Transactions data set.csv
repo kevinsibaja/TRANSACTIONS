@@ -219,3 +219,5 @@ CLIENT_ID,CLIENT_NAME,CLIENT_LASTNAME,EMAIL,STORE_ID,STORE_NAME,LOCATION,PRODUCT
 49,Client_49,Lastname_49,client_49.lastname_49@example.com,102,Store_102,Location_102,210,Product_210,Home,Brand_210,304,Street_304,City_304,State_304,61831,1151,4,68.53744894604111,0.22
 23,Client_23,Lastname_23,client_23.lastname_23@example.com,102,Store_102,Location_102,203,Product_203,Home,Brand_203,306,Street_306,City_306,State_306,89821,1183,5,20.699439956882074,0.28
 21,Client_21,Lastname_21,client_21.lastname_21@example.com,106,Store_106,Location_106,209,Product_209,Fashion,Brand_209,310,Street_310,City_310,State_310,36512,1098,6,88.53599931124498,0.02
+
+

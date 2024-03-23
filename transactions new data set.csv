@@ -1,0 +1,181 @@
+CLIENT_ID,CLIENT_NAME,CLIENT_LASTNAME,EMAIL,STORE_ID,STORE_NAME,LOCATION,PRODUCT_ID,PRODUCT_NAME,CATEGORY,BRAND,ADDRESS_ID,STREET,CITY,STATE,ZIP_CODE,TRANSACTION_ID,QUANTITY_OF_ITEMS_SOLD,UNIT_PRICE,DISCOUNT
+34,Client34,Lastname34,client34.lastname34@example.com,109,Store109,Location109,204,Product204,Electronics,Brand204,305,Street305,City305,State305,73202,1108,5,51.258026243471510,0.17
+7,Client7,Lastname7,client7.lastname7@example.com,103,Store103,Location103,201,Product201,Electronics,Brand201,302,Street302,City302,State302,76878,1004,9,63.984961166653930,0.25
+46,Client46,Lastname46,client46.lastname46@example.com,108,Store108,Location108,205,Product205,Electronics,Brand205,308,Street308,City308,State308,65936,1185,8,74.113977475199750,0.28
+10,Client10,Lastname10,client10.lastname10@example.com,101,Store101,Location101,210,Product210,Fashion,Brand210,305,Street305,City305,State305,34624,1008,9,69.335309690546410,0.01
+2,Client2,Lastname2,client2.lastname2@example.com,104,Store104,Location104,206,Product206,Home,Brand206,306,Street306,City306,State306,47351,1004,4,70.504220451934150,0.11
+36,Client36,Lastname36,client36.lastname36@example.com,106,Store106,Location106,205,Product205,Home,Brand205,308,Street308,City308,State308,32300,1198,7,81.945746145304440,0.23
+6,Client6,Lastname6,client6.lastname6@example.com,101,Store101,Location101,208,Product208,Fashion,Brand208,306,Street306,City306,State306,46358,1150,9,55.638344699092610,0.28
+9,Client9,Lastname9,client9.lastname9@example.com,108,Store108,Location108,209,Product209,Home,Brand209,309,Street309,City309,State309,76727,1145,3,61.494547088752930,0.13
+14,Client14,Lastname14,client14.lastname14@example.com,108,Store108,Location108,210,Product210,Home,Brand210,305,Street305,City305,State305,71332,1190,2,55.973475205365640,0.19
+44,Client44,Lastname44,client44.lastname44@example.com,105,Store105,Location105,205,Product205,Home,Brand205,303,Street303,City303,State303,52845,1200,10,20.822155766266740,0.05
+46,Client46,Lastname46,client46.lastname46@example.com,105,Store105,Location105,203,Product203,Electronics,Brand203,302,Street302,City302,State302,59133,1026,5,93.080505703292000,0.08
+39,Client39,Lastname39,client39.lastname39@example.com,103,Store103,Location103,203,Product203,Home,Brand203,309,Street309,City309,State309,25190,1157,2,62.497623609236090,0.05
+22,Client22,Lastname22,client22.lastname22@example.com,103,Store103,Location103,203,Product203,Electronics,Brand203,301,Street301,City301,State301,41250,1188,2,26.542424494708133,0.14
+42,Client42,Lastname42,client42.lastname42@example.com,106,Store106,Location106,205,Product205,Electronics,Brand205,309,Street309,City309,State309,42862,1105,10,50.201859560872190,0.22
+41,Client41,Lastname41,client41.lastname41@example.com,108,Store108,Location108,201,Product201,Electronics,Brand201,305,Street305,City305,State305,78057,1193,6,49.463527560879120,0.13
+29,Client29,Lastname29,client29.lastname29@example.com,105,Store105,Location105,209,Not found,Fashion,Brand209,308,Street308,City308,State308,60709,1050,8,99.799201787346380,0.02
+30,Client30,Lastname30,client30.lastname30@example.com,110,Store110,Location110,202,Product202,Electronics,Brand202,301,Street301,City301,State301,93194,1017,5,70.081526926699850,0.16
+27,Client27,Lastname27,client27.lastname27@example.com,107,Store107,Location107,205,Product205,Home,Brand205,307,Street307,City307,State307,97973,1167,6,61.453398960314570,0.13
+49,Client49,Lastname49,client49.lastname49@example.com,105,Store105,Location105,205,Product205,Electronics,Brand205,310,Street310,City310,State310,77551,1181,4,28.059133700203140,0.07
+29,Client29,Lastname29,client29.lastname29@example.com,101,Store101,Location101,205,Product205,Electronics,Brand205,307,Street307,City307,State307,48288,1096,10,87.405228727018880,0.19
+41,Client41,Lastname41,client41.lastname41@example.com,107,Not found,Location107,201,Product201,Electronics,Brand201,308,Street308,City308,State308,20286,1193,2,40.886850120262930,0.04
+12,Client12,Lastname12,client12.lastname12@example.com,106,Store106,Location106,210,Product210,Home,Brand210,302,Street302,City302,State302,39742,1135,5,24.619104311852027,0.15
+24,Client24,Lastname24,client24.lastname24@example.com,106,Not found,Location106,205,Product205,Electronics,Brand205,306,Street306,City306,State306,68291,1031,2,56.769193921511985,0.06
+35,Client35,Lastname35,client35.lastname35@example.com,108,Store108,Location108,208,Product208,Fashion,Brand208,310,Street310,City310,State310,13506,1129,2,68.609546614797250,0.14
+35,Not found,Lastname35,client35.lastname35@example.com,107,Store107,Location107,203,Product203,Home,Brand203,308,Street308,City308,State308,15588,1077,1,64.206808744186300,0.19
+5,Client5,Lastname5,client5.lastname5@example.com,101,Not found,Location101,202,Not found,Electronics,Brand202,306,Street306,City306,State306,25036,1199,9,96.367445607419920,0.25
+29,Client29,Lastname29,client29.lastname29@example.com,105,Store105,Location105,207,Product207,Fashion,Brand207,308,Street308,City308,State308,23393,1167,10,84.342486145220140,0.05
+3,Client3,Lastname3,client3.lastname3@example.com,110,Store110,Location110,205,Product205,Electronics,Brand205,306,Street306,City306,State306,36886,1033,2,84.074804788155700,0.22
+1,Client1,Lastname1,client1.lastname1@example.com,106,Store106,Location106,205,Product205,Home,Brand205,309,Street309,City309,State309,29656,1162,4,34.750028130021335,0.17
+33,Client33,Lastname33,client33.lastname33@example.com,107,Not found,Location107,208,Product208,Electronics,Brand208,305,Street305,City305,State305,91075,1034,9,38.445866328436150,0.26
+26,Client26,Lastname26,client26.lastname26@example.com,103,Store103,Location103,209,Not found,Fashion,Brand209,307,Street307,City307,State307,48338,1031,4,84.968510628385160,0.07
+44,Client44,Lastname44,client44.lastname44@example.com,105,Store105,Location105,208,Product208,Electronics,Brand208,308,Street308,City308,State308,23866,1029,10,21.679234607339147,0.09
+41,Client41,Lastname41,client41.lastname41@example.com,109,Store109,Location109,207,Product207,Fashion,Brand207,310,Street310,City310,State310,38186,1061,8,52.361625685722350,0.11
+38,Client38,Lastname38,client38.lastname38@example.com,105,Store105,Location105,209,Product209,Electronics,Brand209,310,Street310,City310,State310,64179,1107,3,77.855493415061030,0.08
+16,Client16,Lastname16,client16.lastname16@example.com,105,Store105,Location105,210,Product210,Home,Brand210,302,Street302,City302,State302,84135,1181,7,88.963823983643270,0.14
+39,Client39,Lastname39,client39.lastname39@example.com,101,Store101,Location101,205,Product205,Electronics,Brand205,306,Street306,City306,State306,16653,1194,3,65.549796486304150,0.20
+6,Client6,Lastname6,client6.lastname6@example.com,105,Store105,Location105,204,Product204,Home,Brand204,304,Street304,City304,State304,43383,1056,2,32.716057506868870,0.28
+21,Client21,Lastname21,client21.lastname21@example.com,108,Store108,Location108,206,Product206,Home,Brand206,308,Street308,City308,State308,50752,1063,5,27.476368348841800,0.08
+43,Client43,Lastname43,client43.lastname43@example.com,105,Store105,Location105,207,Product207,Electronics,Brand207,308,Street308,City308,State308,49669,1090,5,70.579909384365980,0.07
+21,Client21,Lastname21,client21.lastname21@example.com,110,Store110,Location110,210,Not found,Home,Brand210,310,Street310,City310,State310,92043,1133,7,74.697046660338470,0.02
+17,Client17,Lastname17,client17.lastname17@example.com,103,Store103,Location103,207,Product207,Home,Brand207,308,Street308,City308,State308,44933,1078,5,31.917935481148664,0.22
+38,Client38,Lastname38,client38.lastname38@example.com,110,Store110,Location110,203,Product203,Fashion,Brand203,304,Street304,City304,State304,13992,1009,8,98.178172961660930,0.08
+29,Client29,Lastname29,client29.lastname29@example.com,101,Store101,Location101,203,Product203,Fashion,Brand203,301,Street301,City301,State301,18328,1171,8,55.853444528154180,0.29
+25,Client25,Lastname25,client25.lastname25@example.com,103,Not found,Location103,205,Product205,Home,Brand205,303,Street303,City303,State303,86671,1104,3,72.545559387376240,0.16
+11,Client11,Lastname11,client11.lastname11@example.com,105,Store105,Location105,201,Product201,Fashion,Brand201,308,Street308,City308,State308,41415,1006,6,67.597981747706800,0.09
+40,Client40,Lastname40,client40.lastname40@example.com,104,Store104,Location104,203,Not found,Electronics,Brand203,303,Street303,City303,State303,96326,1008,4,50.980551254910935,0.15
+18,Client18,Lastname18,client18.lastname18@example.com,106,Store106,Location106,208,Product208,Electronics,Brand208,310,Street310,City310,State310,76237,1017,1,86.250156782002970,0.01
+1,Client1,Lastname1,client1.lastname1@example.com,107,Store107,Location107,206,Product206,Fashion,Brand206,302,Street302,City302,State302,55327,1079,7,18.023514425658604,0.09
+35,Client35,Lastname35,client35.lastname35@example.com,108,Store108,Location108,210,Product210,Home,Brand210,305,Street305,City305,State305,27464,1079,7,15.485366589872340,0.21
+20,Client20,Lastname20,client20.lastname20@example.com,105,Store105,Location105,207,Product207,Fashion,Brand207,301,Street301,City301,State301,17918,1115,9,75.286281420146540,0.23
+10,Client10,Lastname10,client10.lastname10@example.com,102,Store102,Location102,201,Product201,Electronics,Brand201,303,Street303,City303,State303,74225,1027,3,85.491230816183030,0.16
+2,Client2,Lastname2,client2.lastname2@example.com,110,Store110,Location110,210,Product210,Fashion,Brand210,309,Street309,City309,State309,71090,1073,3,40.139893118334160,0.07
+31,Client31,Lastname31,client31.lastname31@example.com,109,Store109,Location109,210,Product210,Electronics,Brand210,308,Street308,City308,State308,96331,1152,9,44.891805098381480,0.17
+45,Client45,Lastname45,client45.lastname45@example.com,101,Store101,Location101,201,Product201,Electronics,Brand201,301,Street301,City301,State301,79906,1116,7,74.646787185771430,0.03
+37,Client37,Lastname37,client37.lastname37@example.com,110,Store110,Location110,201,Not found,Home,Brand201,306,Street306,City306,State306,63426,1155,10,39.937207514874764,0.01
+43,Client43,Lastname43,client43.lastname43@example.com,102,Store102,Location102,210,Product210,Home,Brand210,304,Street304,City304,State304,14684,1014,7,77.506702069771300,0.02
+28,Client28,Lastname28,client28.lastname28@example.com,107,Store107,Location107,201,Product201,Electronics,Brand201,301,Street301,City301,State301,34531,1127,10,58.327042664677435,0.08
+23,Client23,Lastname23,client23.lastname23@example.com,107,Store107,Location107,206,Product206,Electronics,Brand206,301,Street301,City301,State301,56721,1182,2,56.754106993838920,0.19
+43,Client43,Lastname43,client43.lastname43@example.com,110,Store110,Location110,204,Product204,Electronics,Brand204,308,Street308,City308,State308,28529,1103,4,11.978682684110680,0.08
+15,Client15,Lastname15,client15.lastname15@example.com,102,Store102,Location102,205,Product205,Electronics,Brand205,308,Street308,City308,State308,86205,1131,9,67.090597081064760,0.21
+46,Client46,Lastname46,client46.lastname46@example.com,101,Store101,Location101,204,Product204,Electronics,Brand204,303,Street303,City303,State303,10317,1155,3,55.407376171131160,0.09
+11,Client11,Lastname11,client11.lastname11@example.com,101,Store101,Location101,209,Product209,Fashion,Brand209,308,Street308,City308,State308,29330,1006,6,69.202399681153240,0.17
+24,Client24,Lastname24,client24.lastname24@example.com,110,Store110,Location110,205,Product205,Home,Brand205,306,Street306,City306,State306,35799,1001,3,56.361815684599090,0.03
+6,Client6,Lastname6,client6.lastname6@example.com,109,Store109,Location109,210,Product210,Fashion,Brand210,306,Street306,City306,State306,49921,1047,5,49.105823366943575,0.16
+3,Client3,Lastname3,client3.lastname3@example.com,106,Store106,Location106,206,Not found,Fashion,Brand206,310,Street310,City310,State310,37362,1063,1,99.257141475919110,0.26
+18,Client18,Lastname18,client18.lastname18@example.com,105,Store105,Location105,203,Product203,Home,Brand203,309,Street309,City309,State309,94777,1064,4,60.215995552778660,0.13
+40,Client40,Lastname40,client40.lastname40@example.com,105,Store105,Location105,210,Product210,Electronics,Brand210,304,Street304,City304,State304,72517,1029,6,47.976492692560946,0.26
+13,Client13,Lastname13,client13.lastname13@example.com,102,Store102,Location102,204,Product204,Home,Brand204,307,Street307,City307,State307,93451,1053,1,76.468692247393760,0.02
+25,Client25,Lastname25,client25.lastname25@example.com,102,Store102,Location102,204,Product204,Electronics,Brand204,306,Street306,City306,State306,21180,1121,3,24.691752005287870,0.17
+45,Client45,Lastname45,client45.lastname45@example.com,106,Store106,Location106,210,Product210,Fashion,Brand210,304,Street304,City304,State304,46567,1198,8,98.036310652657050,0.22
+5,Client5,Lastname5,client5.lastname5@example.com,107,Store107,Location107,201,Product201,Home,Brand201,302,Street302,City302,State302,64726,1114,7,10.470507620120289,0.04
+3,Client3,Lastname3,client3.lastname3@example.com,101,Store101,Location101,210,Product210,Home,Brand210,310,Street310,City310,State310,36617,1052,7,54.376280677506905,0.14
+6,Client6,Lastname6,client6.lastname6@example.com,101,Store101,Location101,204,Product204,Fashion,Brand204,306,Street306,City306,State306,52167,1088,2,23.354099317360980,0.03
+43,Client43,Lastname43,client43.lastname43@example.com,103,Store103,Location103,204,Product204,Electronics,Brand204,302,Street302,City302,State302,71489,1077,3,56.543916283120005,0.10
+34,Client34,Lastname34,client34.lastname34@example.com,104,Store104,Location104,205,Product205,Fashion,Brand205,309,Street309,City309,State309,54411,1068,8,60.474167144437660,0.20
+22,Client22,Lastname22,client22.lastname22@example.com,105,Store105,Location105,209,Product209,Home,Brand209,308,Street308,City308,State308,47112,1140,10,49.165997577749720,0.06
+37,Client37,Lastname37,client37.lastname37@example.com,106,Store106,Location106,204,Product204,Home,Brand204,305,Street305,City305,State305,19780,1142,4,38.451674701420316,0.07
+9,Client9,Lastname9,client9.lastname9@example.com,101,Store101,Location101,209,Product209,Electronics,Brand209,308,Street308,City308,State308,11481,1085,5,35.035439667375670,0.26
+33,Client33,Lastname33,client33.lastname33@example.com,102,Store102,Location102,204,Product204,Fashion,Brand204,309,Street309,City309,State309,39748,1030,6,25.032825743606670,0.05
+2,Client2,Lastname2,client2.lastname2@example.com,108,Store108,Location108,202,Product202,Home,Brand202,310,Street310,City310,State310,64197,1187,3,15.152433616541542,0.28
+50,Client50,Lastname50,client50.lastname50@example.com,107,Store107,Location107,204,Product204,Electronics,Brand204,309,Street309,City309,State309,41942,1005,3,13.961896503762816,0.24
+20,Client20,Lastname20,client20.lastname20@example.com,101,Store101,Location101,201,Product201,Electronics,Brand201,302,Street302,City302,State302,61120,1075,6,75.372346713579130,0.13
+22,Client22,Lastname22,client22.lastname22@example.com,103,Store103,Location103,210,Product210,Electronics,Brand210,308,Street308,City308,State308,97730,1005,8,28.164779074627173,0.16
+30,Client30,Lastname30,client30.lastname30@example.com,107,Store107,Location107,209,Product209,Electronics,Brand209,310,Street310,City310,State310,94541,1145,9,12.938315453916292,0.07
+4,Client4,Lastname4,client4.lastname4@example.com,103,Not found,Location103,208,Product208,Electronics,Brand208,306,Street306,City306,State306,97934,1175,3,10.153771036021404,0.25
+14,Not found,Lastname14,client14.lastname14@example.com,101,Store101,Location101,201,Product201,Electronics,Brand201,302,Street302,City302,State302,17472,1029,4,75.263390222257840,0.22
+11,Client11,Lastname11,client11.lastname11@example.com,103,Store103,Location103,201,Product201,Electronics,Brand201,310,Street310,City310,State310,88902,1031,10,95.319181117906650,0.12
+4,Client4,Lastname4,client4.lastname4@example.com,104,Store104,Location104,210,Product210,Electronics,Brand210,310,Street310,City310,State310,74015,1042,1,16.748478949620786,0.14
+12,Not found,Lastname12,client12.lastname12@example.com,102,Not found,Location102,206,Product206,Electronics,Brand206,303,Street303,City303,State303,47711,1051,9,15.967383594682920,0.09
+14,Client14,Lastname14,client14.lastname14@example.com,108,Store108,Location108,204,Product204,Electronics,Brand204,301,Street301,City301,State301,87710,1199,7,85.947676686593520,0.09
+10,Client10,Lastname10,client10.lastname10@example.com,101,Store101,Location101,209,Product209,Fashion,Brand209,305,Street305,City305,State305,18436,1149,6,85.838343772095800,0.23
+38,Client38,Lastname38,client38.lastname38@example.com,107,Store107,Location107,205,Product205,Home,Brand205,308,Street308,City308,State308,67522,1193,1,72.801627718400510,0.22
+12,Client12,Lastname12,client12.lastname12@example.com,109,Store109,Location109,203,Product203,Fashion,Brand203,309,Street309,City309,State309,90617,1080,1,53.068794333048370,0.30
+9,Client9,Lastname9,client9.lastname9@example.com,109,Store109,Location109,208,Product208,Home,Brand208,306,Street306,City306,State306,98756,1143,8,66.247968236487570,0.18
+8,Client8,Lastname8,client8.lastname8@example.com,110,Store110,Location110,206,Product206,Home,Brand206,302,Street302,City302,State302,51663,1149,10,81.705560007627470,0.03
+26,Client26,Lastname26,client26.lastname26@example.com,109,Store109,Location109,201,Product201,Home,Brand201,307,Street307,City307,State307,74861,1056,4,83.836176882929620,0.27
+6,Client6,Lastname6,client6.lastname6@example.com,103,Store103,Location103,210,Product210,Home,Brand210,308,Street308,City308,State308,81391,1099,6,57.669409606984770,0.06
+8,Client8,Lastname8,client8.lastname8@example.com,106,Store106,Location106,204,Product204,Home,Brand204,306,Street306,City306,State306,12818,1048,6,44.792244704308060,0.26
+29,Client29,Lastname29,client29.lastname29@example.com,103,Store103,Location103,205,Product205,Fashion,Brand205,308,Street308,City308,State308,77769,1015,8,84.548829643801870,0.14
+19,Client19,Lastname19,client19.lastname19@example.com,105,Store105,Location105,207,Product207,Fashion,Brand207,309,Street309,City309,State309,79668,1115,1,72.820197814367080,0.18
+45,Not found,Lastname45,client45.lastname45@example.com,103,Store103,Location103,208,Product208,Fashion,Brand208,303,Street303,City303,State303,79572,1090,8,90.603256209419360,0.15
+20,Client20,Lastname20,client20.lastname20@example.com,106,Store106,Location106,208,Product208,Home,Brand208,301,Street301,City301,State301,46771,1193,6,25.493022167019110,0.17
+16,Client16,Lastname16,client16.lastname16@example.com,103,Store103,Location103,202,Product202,Electronics,Brand202,310,Street310,City310,State310,22051,1178,8,62.105641918630546,0.20
+49,Client49,Lastname49,client49.lastname49@example.com,108,Store108,Location108,201,Product201,Home,Brand201,305,Street305,City305,State305,57673,1054,6,39.085894130846300,0.26
+23,Client23,Lastname23,client23.lastname23@example.com,107,Store107,Location107,206,Product206,Fashion,Brand206,303,Street303,City303,State303,10574,1015,10,34.260649635101690,0.11
+49,Client49,Lastname49,client49.lastname49@example.com,101,Store101,Location101,210,Product210,Fashion,Brand210,305,Street305,City305,State305,50189,1149,8,38.781913802274480,0.01
+39,Client39,Lastname39,client39.lastname39@example.com,102,Store102,Location102,203,Product203,Home,Brand203,307,Street307,City307,State307,13600,1165,6,60.386538046512530,0.30
+40,Client40,Lastname40,client40.lastname40@example.com,109,Store109,Location109,205,Product205,Electronics,Brand205,310,Street310,City310,State310,16826,1124,3,17.365742378059856,0.17
+30,Client30,Lastname30,client30.lastname30@example.com,101,Store101,Location101,207,Product207,Electronics,Brand207,308,Street308,City308,State308,45076,1162,7,28.694852087005640,0.10
+14,Not found,Lastname14,client14.lastname14@example.com,107,Store107,Location107,205,Product205,Fashion,Brand205,306,Street306,City306,State306,53476,1042,1,56.764638125468814,0.05
+31,Client31,Lastname31,client31.lastname31@example.com,109,Store109,Location109,208,Product208,Fashion,Brand208,302,Street302,City302,State302,11669,1076,3,75.861840496823900,0.08
+4,Client4,Lastname4,client4.lastname4@example.com,107,Store107,Location107,205,Product205,Electronics,Brand205,302,Street302,City302,State302,67568,1099,9,30.666383199679032,0.02
+9,Client9,Lastname9,client9.lastname9@example.com,110,Store110,Location110,208,Product208,Fashion,Brand208,306,Street306,City306,State306,11923,1043,10,19.113310300376693,0.22
+37,Client37,Lastname37,client37.lastname37@example.com,101,Store101,Location101,202,Product202,Home,Brand202,306,Street306,City306,State306,69871,1056,9,29.058419827489395,0.10
+20,Client20,Lastname20,client20.lastname20@example.com,109,Store109,Location109,204,Product204,Electronics,Brand204,302,Street302,City302,State302,17587,1020,10,15.327824949532292,0.19
+3,Client3,Lastname3,client3.lastname3@example.com,103,Store103,Location103,205,Product205,Fashion,Brand205,303,Street303,City303,State303,60304,1184,8,42.494394614354540,0.03
+37,Client37,Lastname37,client37.lastname37@example.com,106,Store106,Location106,207,Product207,Fashion,Brand207,301,Street301,City301,State301,91606,1056,6,19.206191824554857,0.02
+10,Client10,Lastname10,client10.lastname10@example.com,101,Store101,Location101,202,Product202,Electronics,Brand202,302,Street302,City302,State302,79171,1141,8,66.989627218019020,0.18
+42,Client42,Lastname42,client42.lastname42@example.com,102,Store102,Location102,208,Product208,Home,Brand208,307,Street307,City307,State307,82273,1146,4,54.637027398843370,0.20
+39,Client39,Lastname39,client39.lastname39@example.com,105,Store105,Location105,202,Product202,Electronics,Brand202,310,Street310,City310,State310,50989,1107,2,22.751472305756856,0.19
+14,Not found,Lastname14,client14.lastname14@example.com,104,Store104,Location104,203,Product203,Fashion,Brand203,301,Street301,City301,State301,80437,1071,2,32.308434976935520,0.16
+17,Client17,Lastname17,client17.lastname17@example.com,107,Store107,Location107,204,Product204,Electronics,Brand204,309,Street309,City309,State309,93173,1103,5,83.574986751562050,0.02
+7,Client7,Lastname7,client7.lastname7@example.com,108,Store108,Location108,210,Product210,Fashion,Brand210,306,Street306,City306,State306,75585,1195,2,31.445024761165570,0.19
+49,Client49,Lastname49,client49.lastname49@example.com,106,Store106,Location106,208,Product208,Home,Brand208,302,Street302,City302,State302,78810,1016,5,23.045865260031103,0.17
+4,Client4,Lastname4,client4.lastname4@example.com,102,Store102,Location102,204,Product204,Fashion,Brand204,309,Street309,City309,State309,74013,1125,3,35.358717073138760,0.01
+1,Client1,Lastname1,client1.lastname1@example.com,101,Store101,Location101,205,Product205,Electronics,Brand205,301,Street301,City301,State301,36902,1098,1,20.774831007549984,0.17
+35,Client35,Lastname35,client35.lastname35@example.com,110,Store110,Location110,201,Product201,Electronics,Brand201,301,Street301,City301,State301,48181,1140,7,64.817885656788970,0.22
+26,Client26,Lastname26,client26.lastname26@example.com,110,Store110,Location110,203,Product203,Electronics,Brand203,304,Street304,City304,State304,92763,1052,1,87.136516258407570,0.06
+49,Client49,Lastname49,client49.lastname49@example.com,110,Store110,Location110,205,Not found,Fashion,Brand205,301,Street301,City301,State301,96208,1021,7,83.685018807569790,0.01
+21,Client21,Lastname21,client21.lastname21@example.com,107,Store107,Location107,208,Product208,Home,Brand208,303,Street303,City303,State303,24671,1174,7,73.880232855189330,0.11
+1,Client1,Lastname1,client1.lastname1@example.com,105,Store105,Location105,204,Product204,Fashion,Brand204,302,Street302,City302,State302,48366,1126,1,81.400696877463320,0.04
+19,Client19,Lastname19,client19.lastname19@example.com,106,Store106,Location106,210,Product210,Home,Brand210,305,Street305,City305,State305,50287,1074,1,33.224409049976500,0.14
+19,Client19,Lastname19,client19.lastname19@example.com,103,Store103,Location103,210,Product210,Fashion,Brand210,306,Street306,City306,State306,34513,1148,10,21.425970170983376,0.03
+1,Client1,Lastname1,client1.lastname1@example.com,103,Store103,Location103,209,Product209,Home,Brand209,301,Street301,City301,State301,57070,1116,7,84.130311998528330,0.27
+26,Client26,Lastname26,client26.lastname26@example.com,104,Store104,Location104,201,Product201,Fashion,Brand201,307,Street307,City307,State307,52094,1004,1,95.260477547880500,0.23
+3,Client3,Lastname3,client3.lastname3@example.com,101,Store101,Location101,204,Product204,Electronics,Brand204,309,Street309,City309,State309,35960,1125,2,86.389035813411210,0.10
+44,Client44,Lastname44,client44.lastname44@example.com,106,Store106,Location106,209,Product209,Fashion,Brand209,303,Street303,City303,State303,28707,1152,1,25.345618472910346,0.01
+4,Client4,Lastname4,client4.lastname4@example.com,109,Store109,Location109,203,Product203,Fashion,Brand203,301,Street301,City301,State301,45434,1144,5,23.221886118493465,0.20
+2,Client2,Lastname2,client2.lastname2@example.com,104,Store104,Location104,209,Product209,Fashion,Brand209,309,Street309,City309,State309,99479,1141,10,78.132137851431200,0.26
+7,Client7,Lastname7,client7.lastname7@example.com,101,Store101,Location101,204,Product204,Home,Brand204,304,Street304,City304,State304,75413,1090,1,69.583921571960190,0.28
+43,Client43,Lastname43,client43.lastname43@example.com,108,Store108,Location108,208,Product208,Home,Brand208,306,Street306,City306,State306,87154,1003,2,49.740419548722480,0.09
+39,Client39,Lastname39,client39.lastname39@example.com,105,Store105,Location105,201,Product201,Electronics,Brand201,302,Street302,City302,State302,65710,1154,2,79.263595068681950,0.04
+45,Not found,Lastname45,client45.lastname45@example.com,108,Store108,Location108,207,Product207,Home,Brand207,309,Street309,City309,State309,57997,1001,9,30.295636673545847,0.17
+11,Client11,Lastname11,client11.lastname11@example.com,107,Store107,Location107,206,Product206,Fashion,Brand206,303,Street303,City303,State303,57375,1040,5,82.617580726669860,0.23
+48,Client48,Lastname48,client48.lastname48@example.com,109,Store109,Location109,204,Product204,Fashion,Brand204,303,Street303,City303,State303,68743,1087,1,84.564217370149920,0.23
+3,Client3,Lastname3,client3.lastname3@example.com,107,Store107,Location107,204,Product204,Electronics,Brand204,308,Street308,City308,State308,82970,1168,3,82.743817252051410,0.22
+38,Client38,Lastname38,client38.lastname38@example.com,102,Store102,Location102,202,Product202,Electronics,Brand202,303,Street303,City303,State303,70318,1138,9,95.019406116127340,0.11
+1,Client1,Lastname1,client1.lastname1@example.com,102,Store102,Location102,206,Product206,Home,Brand206,309,Street309,City309,State309,66737,1105,3,70.747517665441620,0.14
+38,Client38,Lastname38,client38.lastname38@example.com,105,Store105,Location105,206,Product206,Electronics,Brand206,310,Street310,City310,State310,29633,1056,2,54.661936539810310,0.28
+24,Client24,Lastname24,client24.lastname24@example.com,106,Store106,Location106,203,Product203,Home,Brand203,308,Street308,City308,State308,91183,1026,3,88.809759334259610,0.09
+7,Client7,Lastname7,client7.lastname7@example.com,103,Store103,Location103,210,Product210,Electronics,Brand210,308,Street308,City308,State308,37266,1092,6,47.928791939372300,0.03
+12,Client12,Lastname12,client12.lastname12@example.com,109,Store109,Location109,207,Product207,Electronics,Brand207,307,Street307,City307,State307,48998,1125,4,49.188862543296110,0.10
+26,Client26,Lastname26,client26.lastname26@example.com,102,Store102,Location102,203,Product203,Fashion,Brand203,310,Street310,City310,State310,61044,1173,1,32.251573424004550,0.07
+28,Client28,Lastname28,client28.lastname28@example.com,108,Store108,Location108,201,Product201,Fashion,Brand201,301,Street301,City301,State301,43378,1007,1,88.909532931953350,0.16
+42,Client42,Lastname42,client42.lastname42@example.com,108,Store108,Location108,201,Product201,Fashion,Brand201,307,Street307,City307,State307,80469,1069,10,10.906480990545713,0.27
+35,Client35,Lastname35,client35.lastname35@example.com,110,Store110,Location110,210,Product210,Fashion,Brand210,308,Street308,City308,State308,77739,1047,3,52.028497319159406,0.30
+32,Client32,Lastname32,client32.lastname32@example.com,101,Store101,Location101,205,Product205,Fashion,Brand205,308,Street308,City308,State308,26932,1027,5,34.025270306335830,0.30
+26,Client26,Lastname26,client26.lastname26@example.com,104,Store104,Location104,201,Product201,Fashion,Brand201,305,Street305,City305,State305,71804,1062,1,53.144179597597640,0.27
+17,Not found,Lastname17,client17.lastname17@example.com,104,Store104,Location104,209,Product209,Fashion,Brand209,303,Street303,City303,State303,64969,1044,5,61.550407631022210,0.16
+17,Client17,Lastname17,client17.lastname17@example.com,106,Store106,Location106,206,Product206,Fashion,Brand206,306,Street306,City306,State306,69662,1130,3,19.388775252981393,0.18
+30,Client30,Lastname30,client30.lastname30@example.com,107,Store107,Location107,204,Product204,Fashion,Brand204,310,Street310,City310,State310,71014,1180,8,92.951804144093910,0.28
+38,Client38,Lastname38,client38.lastname38@example.com,109,Store109,Location109,209,Product209,Electronics,Brand209,303,Street303,City303,State303,81716,1024,2,12.768771306604023,0.04
+39,Client39,Lastname39,client39.lastname39@example.com,104,Store104,Location104,201,Product201,Home,Brand201,308,Street308,City308,State308,36662,1065,4,22.661660104059962,0.00
+19,Not found,Lastname19,client19.lastname19@example.com,105,Store105,Location105,208,Product208,Electronics,Brand208,307,Street307,City307,State307,22210,1198,10,48.721281125862710,0.03
+22,Client22,Lastname22,client22.lastname22@example.com,109,Store109,Location109,210,Product210,Electronics,Brand210,310,Street310,City310,State310,56926,1181,5,95.008257043298300,0.13
+15,Client15,Lastname15,client15.lastname15@example.com,104,Store104,Location104,203,Product203,Electronics,Brand203,308,Street308,City308,State308,26087,1169,1,92.864594644969260,0.20
+39,Client39,Lastname39,client39.lastname39@example.com,103,Not found,Location103,203,Product203,Electronics,Brand203,303,Street303,City303,State303,30027,1100,5,36.192621031287280,0.25
+27,Client27,Lastname27,client27.lastname27@example.com,107,Store107,Location107,207,Product207,Home,Brand207,310,Street310,City310,State310,25660,1004,8,89.884507577372160,0.27
+41,Client41,Lastname41,client41.lastname41@example.com,105,Store105,Location105,209,Product209,Home,Brand209,306,Street306,City306,State306,82221,1112,10,11.197758906486222,0.22
+3,Client3,Lastname3,client3.lastname3@example.com,108,Store108,Location108,204,Product204,Electronics,Brand204,310,Street310,City310,State310,10878,1015,6,63.537637128903520,0.10
+36,Client36,Lastname36,client36.lastname36@example.com,104,Store104,Location104,208,Product208,Home,Brand208,306,Street306,City306,State306,61523,1016,6,11.376143720693578,0.17
+41,Client41,Lastname41,client41.lastname41@example.com,104,Store104,Location104,205,Product205,Fashion,Brand205,303,Street303,City303,State303,10096,1076,6,86.087210198925920,0.12
+7,Client7,Lastname7,client7.lastname7@example.com,108,Store108,Location108,204,Product204,Fashion,Brand204,307,Street307,City307,State307,71208,1105,7,55.368690640804120,0.30
+23,Client23,Lastname23,client23.lastname23@example.com,110,Store110,Location110,204,Product204,Electronics,Brand204,309,Street309,City309,State309,38393,1172,7,16.512657053805020,0.17
+14,Client14,Lastname14,client14.lastname14@example.com,102,Store102,Location102,203,Product203,Fashion,Brand203,304,Street304,City304,State304,41511,1077,2,73.710364816115260,0.10
+14,Client14,Lastname14,client14.lastname14@example.com,101,Store101,Location101,205,Product205,Home,Brand205,306,Street306,City306,State306,69992,1175,2,22.728805198568540,0.14
+10,Client10,Lastname10,client10.lastname10@example.com,107,Store107,Location107,203,Product203,Electronics,Brand203,306,Street306,City306,State306,34680,1094,4,59.205956042588700,0.13
+25,Client25,Lastname25,client25.lastname25@example.com,101,Store101,Location101,207,Product207,Electronics,Brand207,309,Street309,City309,State309,38285,1092,3,84.946403767957970,0.14
+1,Client1,Lastname1,client1.lastname1@example.com,103,Store103,Location103,208,Product208,Home,Brand208,309,Street309,City309,State309,82521,1085,7,59.612713311893600,0.30
+22,Client22,Lastname22,client22.lastname22@example.com,105,Store105,Location105,201,Product201,Fashion,Brand201,302,Street302,City302,State302,96856,1077,10,47.069465611024086,0.11
